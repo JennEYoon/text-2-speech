@@ -1,1 +1,10 @@
-make samples of chapter 1 sections.  
+# samples folder, text, PDF formats  
+
+### Build LLM book: 
+ * PDF - copy chapter 1, section headings, tables, code sections, sep codes.  
+ * ElevenLabs, try chp 1, free tier first, then Creative tier.  
+ * Use iPad and recording app, me record with section breaks, code section, table section. 
+ * Vocab - special words record & text file. - use to train AI pronounciations.  
+
+### Next, try Amazon Polly:  
+ * while in Japan?  Post return.  
